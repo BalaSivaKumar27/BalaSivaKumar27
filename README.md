@@ -76,9 +76,6 @@ I build production-ready web applications and develop intelligent systems with p
   <a href="https://github.com/BalaSivaKumar27">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="tel:+916383492141">
-    <img src="https://img.shields.io/badge/Phone-%2B91%2063834%2092141-2E8B57?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
 </p>
 
 
