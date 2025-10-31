@@ -62,23 +62,21 @@ I build production-ready web applications and develop intelligent systems with p
 
 ---
 <h2> Connect </h2>
-<p> 📩 Reach Me Directly </p>
+<p> Reach Me Directly:</p>
 
 <p align="center">
   <a href="mailto:balasivakumar027@gmail.com">
-    <img src="https://img.shields.io/badge/balasivakumar027%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-balasivakumar027%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/balasivakumar-mk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Bala%20Sivakumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/BalaSivaKumar27">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-BalaSivaKumar27-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
-
 
 ---
 
