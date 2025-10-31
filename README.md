@@ -61,7 +61,7 @@ I build production-ready web applications and develop intelligent systems with p
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-<h2> 🤝 Connect </h2>
+<h2> Connect </h2>
 <p> 📩 Reach Me Directly </p>
 
 <p align="center">
