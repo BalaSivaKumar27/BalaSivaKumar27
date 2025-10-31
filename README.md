@@ -43,12 +43,12 @@ I build production-ready web applications and develop intelligent systems with p
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
-
 ### 🗄️ Databases
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🎨 Design & UI/UX
@@ -77,7 +77,6 @@ I build production-ready web applications and develop intelligent systems with p
     <img src="https://img.shields.io/badge/GitHub-BalaSivaKumar27-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
 ---
 
 ## 🧩 Projects  
@@ -139,7 +138,7 @@ I build production-ready web applications and develop intelligent systems with p
   *Sri Ramakrishna Institute of Technology*  
   Presented a technical paper demonstrating research and innovation in applied computing.  
   📜 [View Certificate](https://ik.imagekit.io/SivaKumar/Certificates/Sri%20Ramakrishna.jpg?updatedAt=1751303161858)
-
+  
 ---
 
 ### Quick Links  
