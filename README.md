@@ -68,6 +68,7 @@ I build production-ready web applications and develop intelligent systems with p
 </p>
 
 ---
+
 <h2> Connect </h2>
 <p> Reach Me Directly:</p>
 
@@ -84,7 +85,8 @@ I build production-ready web applications and develop intelligent systems with p
     <img src="https://img.shields.io/badge/GitHub-BalaSivaKumar27-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
----
+
+--- 
 
 ## 🧩 Projects  
 
