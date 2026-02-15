@@ -114,10 +114,5 @@ I build production-ready web applications and develop intelligent systems with p
   
 ---
 
-### Quick Links  
-- ✅ Resume (PDF link)  
-- 🖥 Portfolio: [https://balasivakumar-portfolio.vercel.app/] 
----
-
 ## Let’s Collaborate  
 If you’re building something meaningful—whether it’s AI + health, full-stack web, or sustainability tech—let’s connect and build together. I’m all about practical impact, scalable solutions, and clean code.  
