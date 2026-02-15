@@ -100,59 +100,23 @@ I build production-ready web applications and develop intelligent systems with p
 
 🔗 [GitHub](https://github.com/BalaSivaKumar27/RealTime-Chat-App)  
 
-### 3. 🛍️ ShopEase - E-Commerce Website  
-  - **Stack:** React.js · Tailwind CSS · JavaScript  
-  - A responsive e-commerce platform built for seamless UX with category-based browsing, search, and modern UI design.  
-
-🔗 [Live Demo](https://shop-ease-e-commerce-website-plum.vercel.app/) 🔗 [GitHub](https://github.com/BalaSivaKumar27/ShopEase-E-Commerce-Website)  
-
-### 4. 🛕 Meenakshi Amman Temple — Heritage Experience  
+### 3. 🛕 Meenakshi Amman Temple — Heritage Experience  
   - **Stack:** React.js · Tailwind CSS · JavaScript  
   - A cultural heritage web experience showcasing temple architecture, images, and historical insights with a responsive, modern UI.
 
 🔗 [Live Demo](https://meenakshi-amman-temple.vercel.app/) 🔗 [GitHub](https://github.com/BalaSivaKumar27/Meenakshi-Amman-Temple)  
 
-### 5. ✅ To-Do List App  
-  - **Stack:** React.js · CSS  
-  - A clean and simple task manager to add, edit, and track tasks — fully responsive and optimized for productivity.
-
-🔗 [Live Demo](https://to-do-list-lilac-three-42.vercel.app/) 🔗 [GitHub](https://github.com/BalaSivaKumar27/To-do-listm)  
-
-### 6. 📘 StudySphere — E-Learning Platform  
+### 4. 📘 StudySphere — E-Learning Platform  
   - **Stack:** React.js · Tailwind CSS · JavaScript  
   - Interactive online learning platform offering 20+ skill-based courses with certification. Built for smooth navigation and fast loading.  
 
 🔗 [Live Demo](https://study-sphere-omega-olive.vercel.app/) 🔗 [GitHub](https://github.com/BalaSivaKumar27/StudySphere-)  
-
----
-
-## 🏆 Achievements & Awards  
-
-- 🥇 **Designathon - 1st Prize**  
-  *Kalasalingam Academy of Research and Education*  
-  Won 1st place for an innovative design project using **Figma**.  
-  📜 [View Certificate](https://ik.imagekit.io/SivaKumar/Certificates/Kalasalingam.jpg?updatedAt=1751303162762)
-
-- 🥉 **Project Presentation - 3rd Prize**  
-  *KPR Institute of Engineering and Technology*  
-  Recognized for an impactful AI/ML project presentation.  
-  📜 [View Certificate](https://ik.imagekit.io/SivaKumar/Certificates/KPR.jpg?updatedAt=1751303160926)
-
-- 💡 **AI Across the Board - 5th Prize**  
-  *Sri Eshwar College of Engineering*  
-  Achieved 5th place in Project Expo for the AI-Powered Cognitive Assistance System.  
-  📜 [View Certificate](https://ik.imagekit.io/SivaKumar/Certificates/Sri_Eshwar.jpg?updatedAt=1751303161371)
-
-- 📄 **Paper Presentation - Participant**  
-  *Sri Ramakrishna Institute of Technology*  
-  Presented a technical paper demonstrating research and innovation in applied computing.  
-  📜 [View Certificate](https://ik.imagekit.io/SivaKumar/Certificates/Sri%20Ramakrishna.jpg?updatedAt=1751303161858)
   
 ---
 
 ### Quick Links  
 - ✅ Resume (PDF link)  
-- 🖥 Portfolio: [YourPortfolioURL] 
+- 🖥 Portfolio: [https://balasivakumar-portfolio.vercel.app/] 
 ---
 
 ## Let’s Collaborate  
