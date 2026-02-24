@@ -70,7 +70,6 @@ I build production-ready web applications and develop intelligent systems with p
 ---
 
 <h2> Connect </h2>
-<p> Reach Me Directly:</p>
 
 <p align="center">
   <a href="mailto:balasivakumar027@gmail.com">
@@ -85,34 +84,3 @@ I build production-ready web applications and develop intelligent systems with p
     <img src="https://img.shields.io/badge/GitHub-BalaSivaKumar27-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
---- 
-
-## 🧩 Projects  
-
-### 1. 🧠 AI-Powered Cognitive Assistance System  
-  - **Stack:** React 19 (Vite & CRA) · Flask (Python) · Tailwind CSS · Material UI · Emotion CSS · Pandas · Axios · CSV/JSON Storage  
-  - AI assistant for Alzheimer’s patients offering memory recall, smart reminders, emotion detection, and caregiver alerts.
-
-### 2. 💬 Real-Time Chat Application  
-  - **Stack:** React.js · Node.js · Express.js · Socket.io · Firebase  
-  - WhatsApp-style chat interface with group & personal messaging, real-time updates via Socket.io, file sharing, and Firebase authentication.
-
-🔗 [GitHub](https://github.com/BalaSivaKumar27/RealTime-Chat-App)  
-
-### 3. 🛕 Meenakshi Amman Temple — Heritage Experience  
-  - **Stack:** React.js · Tailwind CSS · JavaScript  
-  - A cultural heritage web experience showcasing temple architecture, images, and historical insights with a responsive, modern UI.
-
-🔗 [Live Demo](https://meenakshi-amman-temple.vercel.app/) 🔗 [GitHub](https://github.com/BalaSivaKumar27/Meenakshi-Amman-Temple)  
-
-### 4. 📘 StudySphere — E-Learning Platform  
-  - **Stack:** React.js · Tailwind CSS · JavaScript  
-  - Interactive online learning platform offering 20+ skill-based courses with certification. Built for smooth navigation and fast loading.  
-
-🔗 [Live Demo](https://study-sphere-omega-olive.vercel.app/) 🔗 [GitHub](https://github.com/BalaSivaKumar27/StudySphere-)  
-  
----
-
-## Let’s Collaborate  
-If you’re building something meaningful—whether it’s AI + health, full-stack web, or sustainability tech—let’s connect and build together. I’m all about practical impact, scalable solutions, and clean code.  
